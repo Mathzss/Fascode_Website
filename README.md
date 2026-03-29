@@ -4,7 +4,7 @@ Site institucional e comercial desenvolvido com React, TypeScript, Tailwind CSS 
 
 ## 🚀 Demo
 
-[Ver site ao vivo](https://fascode-visionary-build.lovable.app/)
+[Ver site ao vivo](https://fascode.com.br)
 
 ## ✨ Características
 
